@@ -75,7 +75,8 @@ const Works = () => {
       category: "React",
       value: "react",
       imageUrl: "/myself.png",
-      websiteUrl: "./",
+      websiteUrl:
+        "https://personal-portfolio-4u6rxrmpc-sandeep-singhs-projects-47417e9e.vercel.app/about",
     },
   ]);
 
